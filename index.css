@@ -1,0 +1,19 @@
+html , body {
+     margin: 0;
+     padding: 0;
+}
+#box {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(120, 154, 219);
+    border: 2px solid yellowgreen;
+    position: relative;
+    border-radius: 20px;
+}
+#ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(194, 49, 23);
+    position: absolute;
+}
